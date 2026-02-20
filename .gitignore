@@ -1,3 +1,11 @@
+# backups de joe
+*~
+
+# Directorio y archivos de builds
+build/
+dependencies.lock
+sdkconfig*
+
 # Prerequisites
 *.d
 
